@@ -1,4 +1,4 @@
-# URL SHORTENER MICROSERVICE
+# URL Shortener Microservice
 
 ## Overview
 This project is a simple microservice built with Node.js and Express 
