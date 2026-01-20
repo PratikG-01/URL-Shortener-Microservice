@@ -33,5 +33,4 @@ Users can then visit the shortened URL to be redirected to the original link.
 
 ## Project Structure
 - index.js – Main application file
-
-    •    package.json – Dependencies and scripts
+- package.json – Dependencies and scripts
